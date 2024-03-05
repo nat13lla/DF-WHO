@@ -31,9 +31,9 @@ From here we tried a variety of models to find the best combination of columns f
 
 2. **Modelling_WHO-2.ipynb**: This Colab Notebook file contains the modeling work conducted by the team. It implements machine learning, linear regression models to predict average life expectancies across countries, including data processing, model selection, training, and evaluation.
 
-3. **Model_Interface.ipynb**: This Colab Notebook file contains the interface for the predictive model. It prompts the user to input relevant population statistics and consent to using advanced population data for better accuracy. Based on the user's response, it selects the appropriate model and provides a prediction on the average life expectancy.
+3. **Model_Interface_WHO.ipynb**: This Colab Notebook file contains the interface for the predictive model. It prompts the user to input relevant population statistics and consent to using advanced population data for better accuracy. Based on the user's response, it selects the appropriate model and provides a prediction on the average life expectancy.
 
-4. **life Expectancy Data.csv**: This CSV file contains the dataset provided by WHO, consisting of records between 2000 and 2015 across 183 (179) countries. It includes relevant population statistics and life expectancy measurements.
+4. **Life Expectancy Data.csv**: This CSV file contains the dataset provided by WHO, consisting of records between 2000 and 2015 across 183 (179) countries. It includes relevant population statistics and life expectancy measurements.
 
 5. **WHO Dataset - MetaData.ipynb**: This Colab Notebook file contains the metadata given about the WHO dataset. It documents the features included in the dataset and their descriptions.
 
