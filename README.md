@@ -1,5 +1,8 @@
 # Project: WHO - Life Expectancy Prediction
 
+* This repository contains the project files uploaded by me, however, it's important to note that all team members have contributed to the development and analysis of the project.
+
+  
 ## Team Line Masters:
 - Natalie Coyle
 - Hasan Cokgezici
